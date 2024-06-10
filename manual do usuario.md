@@ -21,7 +21,7 @@ Um terminal de linha de comando (console) para executar o programa.
 Clonar o Repositório:
 
 Clone o repositório do EscolaSys para o seu ambiente local usando o seguinte comando:
-git clone https://github.com/Pedrinpro/escolasys
+```git clone https://github.com/Pedrinpro/escolasys```
 Instalar Dependências:
 
 Navegue até o diretório do EscolaSys e execute o arquivo setup.bat
