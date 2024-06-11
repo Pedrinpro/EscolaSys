@@ -27,6 +27,7 @@ set /p O="Deseja prosseguir? [S/N]: "
 if /i "%O%"=="S" (
     pip install colorama -q -U
     pip install tabulate -q -U
+    pip install sqlite3 -q -U 
     echo Finalizado
     pause
 ) else (
